@@ -1,0 +1,6 @@
+Telegram: @kubitre
+github: @kubitre
+Gostructor: https://github.com/goreflect/gostructor
+Cleanenv: https://github.com/ilyakaznacheev/cleanenv
+Viper: https://github.com/spf13/viper
+Presentation: https://goreflect.github.io
